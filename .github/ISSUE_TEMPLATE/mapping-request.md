@@ -7,14 +7,18 @@ assignees: XCOYoshi
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+## Hat dein Fehler etwas mit einem Problem zutuen?
+Eine Klare Beschreibung des Problems
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+## Beschreibe dein Wunsch Lösung
+Dein Wunsch Lösung
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+## Alternative Lösungen die dir einfallen
+Ein Alternative Lösung wenn Möglich
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+## Location
+Map Screenschot der Location
+Screen schot der Location
+
+## Additional context
+Fügen Sie hier weitere Informationen oder Screenshots zu Ihrer Anfrage hinzu.
