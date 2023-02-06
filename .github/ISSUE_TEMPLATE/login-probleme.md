@@ -8,3 +8,8 @@ assignees: ProfPanda07
 ---
 
 ## info
+
+1. "Account Name"
+2. "Was ist der Fehler"
+
+## Screenshots
