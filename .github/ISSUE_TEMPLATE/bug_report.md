@@ -2,7 +2,7 @@
 name: In game Bug
 about: Ein Fehler auf dem Server
 title: ''
-labels: ''
+labels: In Game
 assignees: ''
 
 ---
