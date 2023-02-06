@@ -1,9 +1,9 @@
 ---
 name: In game Bug
-about: Ein Fehler auf dem Server
-title: ''
-labels: In Game
-assignees: ''
+about: Ein Fehler auf dem Server, der nicht map abhängig ist
+title: "... ist funktioniert nicht"
+labels: In Game, script
+assignees: DELJN
 
 ---
 
