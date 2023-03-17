@@ -1,6 +1,6 @@
 ---
 name: In game Feature request
-about: Suggest an idea for this project
+about: Eine idee die mit dem scrript zutuen hat (marker minigame etc)
 title: "... wäre nice"
 labels: In Game, script
 assignees: DELJN
