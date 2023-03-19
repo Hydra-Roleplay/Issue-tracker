@@ -2,7 +2,7 @@
 name: In game Bug
 about: Ein Fehler auf dem Server, der nicht map abhängig ist
 title: "... ist funktioniert nicht"
-labels: In Game, script
+labels: In Game
 assignees: DELJN
 
 ---

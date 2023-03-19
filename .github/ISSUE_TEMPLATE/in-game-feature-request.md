@@ -2,7 +2,7 @@
 name: In game Feature request
 about: Eine idee die mit dem scrript zutuen hat (marker minigame etc)
 title: "... wäre nice"
-labels: In Game, script, Feature Request
+labels: Feature Request, In Game, Script
 assignees: DELJN
 
 ---
